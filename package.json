@@ -1,0 +1,37 @@
+{
+    "name"       : "trip-home",
+    "version"    : "0.0.1",
+    "description": "旅行首页2014a",
+    "author"     : {
+        "name" : "舒克",
+        "email": "shuke.cl@taobao.net"
+    },
+    "repository" : {
+        "type": "git",
+        "url" : ""
+    },
+    "keywords"   : [
+        "clam", "TripHome"
+    ],
+
+    "devDependencies": {
+        "grunt"               : "~0.4.1",
+        "grunt-contrib-copy"  : "",
+        "grunt-contrib-uglify": "~0.2.0",
+        "grunt-contrib-clean" : "~0.4.0",
+        "grunt-contrib-less"  : "~0.5.0",
+        "grunt-css-combo"     : "",
+        "grunt-contrib-cssmin": "~0.5.0",
+        "grunt-contrib-watch" : "",
+        "grunt-kmc"           : "~0.1.15",
+        "grunt-exec"          : "",
+        "grunt-flexcombo"     : "",
+        "grunt-combohtml"     : "",
+        "grunt-mytps"         : "",
+        "fs-extra"            : "",
+        "grunt-replace"       : ""
+    },
+
+    "dependencies": {
+    }
+}
