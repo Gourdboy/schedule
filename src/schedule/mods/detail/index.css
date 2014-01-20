@@ -12,7 +12,7 @@
   _display: inline;
   margin: 5px 10px  0  0;
   cursor: pointer;
-  background: url(http://gtms01.alicdn.com/tps/i1/T1HZ8xFBlkXXceZl..-10-9.png) no-repeat center center;
+  background: url(http://g.tbcdn.cn/trip/tools/schedule/mods/detail/close.png) no-repeat center center;
 }
 .detail .hd .close:hover {
   background-color: #546a78;
@@ -137,6 +137,7 @@
   background: #f60;
 }
 .detail .bd .tab-content {
+  position: relative;
   overflow: hidden;
   zoom: 1;
 }

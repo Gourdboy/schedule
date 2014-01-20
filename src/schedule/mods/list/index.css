@@ -39,18 +39,21 @@
 .list .return {
   color: #9181c8;
 }
+.list .tab-content {
+  position: relative;
+  overflow: hidden;
+}
 .pager {
   height: 40px;
 }
 .pager .tab-nav {
-  float: right;
+  text-align: center;
   padding-top: 10px;
   padding-right: 10px;
 }
 .pager .page-item {
-  float: left;
+  display: inline-block;
   margin: 0 5px;
-  _display: inline;
   width: 20px;
   height: 20px;
   border-radius: 10px;

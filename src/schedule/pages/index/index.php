@@ -13,7 +13,6 @@ $piVersion = "1.1.6";
 <body>
 <?
 include("../../mods/list/index.php");
-include("../../mods/detail/index.php");
 ?>
 <script src="index.js"></script>
 </body>

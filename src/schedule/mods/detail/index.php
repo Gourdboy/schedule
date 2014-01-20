@@ -134,7 +134,7 @@
             eventype:'click',//tab上的触发事件
             triggerSelector :'.tab-nav-item',
             autoSlide:false,//自动播放
-            //effect:'fade',//切换效果为纵向滚动
+            effect:'hSlide',//切换效果为纵向滚动
             speed:300,//切换速度，越小越快，单位为毫秒
             hoverStop:true//鼠标经过内容是否停止播放
         })
