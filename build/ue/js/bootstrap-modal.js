@@ -1,3 +1,9 @@
+/*
+combined files : 
+
+tools/src/ue/js/bootstrap-modal
+
+*/
 /* =========================================================
  * bootstrap-modal.js v2.3.2
  * http://twitter.github.com/bootstrap/javascript.html#modals
@@ -245,3 +251,4 @@
   })
 
 }(window.jQuery);
+

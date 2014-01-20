@@ -1,4 +1,10 @@
 /*
+combined files : 
+
+tools/src/ue/js/holder/holder
+
+*/
+/*
 
 Holder - 1.9 - client side image placeholders
 (c) 2012-2013 Ivan Malopinsky / http://imsky.co

@@ -1,3 +1,9 @@
+/*
+combined files : 
+
+tools/src/ue/js/bootstrap-popover
+
+*/
 /* ===========================================================
  * bootstrap-popover.js v2.3.2
  * http://twitter.github.com/bootstrap/javascript.html#popovers
@@ -112,3 +118,4 @@
   }
 
 }(window.jQuery);
+

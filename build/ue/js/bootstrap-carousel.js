@@ -1,3 +1,9 @@
+/*
+combined files : 
+
+tools/src/ue/js/bootstrap-carousel
+
+*/
 /* ==========================================================
  * bootstrap-carousel.js v2.3.2
  * http://twitter.github.com/bootstrap/javascript.html#carousel
