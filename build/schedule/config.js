@@ -5,7 +5,7 @@ tools/src/schedule/config
 
 */
 /**
- * http://g.tbcdn.cn/trip/trip-home/0.1.2/config.js
+ * http://g.tbcdn.cn/trip/trip-home/0.1.3/config.js
  */
 (function(){
     KISSY.config('tag', null); //去除?t时间戳
