@@ -2,6 +2,13 @@
 
 - 创建者: 舒克
 
+Demo地址：
+
+- 列表页 : https://github.com/Gourdboy/schedule/blob/master/src/schedule/pages/list/index.html
+- 详情页 ： https://github.com/Gourdboy/schedule/blob/master/src/schedule/pages/detail/index.html
+
+技术方案变更为不走JSON数据前端渲染，全部由航旅纵横后端进行HTML的渲染。
+
 ## 机票航班动态
 
 
