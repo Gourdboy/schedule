@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8"/>
     <title>航班时刻表</title>
-    <link rel="stylesheet" href="http://g.tbcdn.cn/tpi/pi/1.1.6/??base/index-min.css,msg/index-min.css">
+    <link rel="stylesheet" href="http://g.tbcdn.cn/tpi/pi/1.1.6/??base/index-min.css,msg/index-min.css,loading/index-min.css">
     <script src="http://g.tbcdn.cn/??kissy/k/1.4.1/seed-min.js,tpi/pi/1.1.6/seed-min.js"></script>
     <link rel="stylesheet" href="http://g.tbcdn.cn/trip/tools/schedule/widgets/base/index-min.css"/>
 </head>
@@ -510,6 +510,59 @@
     </div>
 </div>
 <!--predrop end-->
+
+
+
+<!--error start-->
+<div class="detail">
+    <div class="hd">
+    </div>
+    <div class="bd">
+        <div class="pi-msg inline-block pi-msg-lg pi-msg-error">
+            <div class="pi-msg-inner clearfix">
+                <i class="pi-msg-icon">&#x3432;</i>
+                <div class="pi-msg-content">
+                    <div class="pi-msg-tit">您查找的航班不存在</div>
+                    <p>请您核对航班号再查询</p>
+                    <p><a href="#">- 返回 -</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--error end-->
+
+<!--error start-->
+<div class="detail">
+    <div class="hd">
+    </div>
+    <div class="bd">
+        <div class="pi-msg inline-block pi-msg-lg pi-msg-alert">
+            <div class="pi-msg-inner clearfix">
+                <i class="pi-msg-icon">&#x3437;</i>
+                <div class="pi-msg-content">
+                    <div class="pi-msg-tit">由于网络故障原因未找到你的航班</div>
+                    <p>请你稍后重试</p>
+                    <p><a href="#">- 返回 -</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--error end-->
+
+<!-- loading start -->
+<div class="detail">
+    <div class="hd">
+    </div>
+    <div class="bd">
+        <div class="pi-loading">
+            <i></i>
+            <span class="pi-loading-in">正在加载中，请稍后</span>
+        </div>
+    </div>
+</div>
+<!-- loading end -->
 <script src="http://g.tbcdn.cn/trip/tools/schedule/pages/detail/index-min.js"></script>
 </body>
 </html>
